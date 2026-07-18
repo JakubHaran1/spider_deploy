@@ -90,7 +90,7 @@ DATABASES = {
         default=os.environ.get("DATABASE_URL")
     )
 }
-s
+
 
 # Password validation
 # https://docs.djangoproject.com/en/6.0/ref/settings/#auth-password-validators
